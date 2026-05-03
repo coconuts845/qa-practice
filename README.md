@@ -1,6 +1,6 @@
-# qa-practice
+# QA-Practice
 This Repository contains my qa practice projects.
-## skils
+## Skills
 - iOS QA
 - Regression Testing
 - Test Case Creation
